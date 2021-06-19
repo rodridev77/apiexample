@@ -1,4 +1,4 @@
-# Exemplo simples de uma API restafull com autenticação JWT
+# Exemplo simples de uma API restfull com autenticação JWT
 ## Endpoints de acesso
 
 * Login POST http://localhost/API-implementation-01/auth
